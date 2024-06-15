@@ -1,0 +1,13 @@
+- !!Square
+  animal: !!BabyDragon {animalType: BABY_DRAGON, filename: s4\sprint4\Pictures\baby_dragon1.png,
+    height: 90, width: 90}
+  color: {}
+- !!Square
+  animal: !!Salamander {animalType: SALAMANDER, filename: s4\sprint4\Pictures\salamander1.png,
+    height: 90, width: 90}
+  color: {}
+- !!Square
+  animal: !!Bat {animalType: BAT, filename: s4\sprint4\Pictures\bat1.png, height: 90,
+    width: 90}
+  color: {}
+olor: {}

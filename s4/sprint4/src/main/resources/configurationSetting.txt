@@ -1,0 +1,8 @@
+BabyDragon,Bat,Spider
+Salamander,Spider,Bat
+Spider,Salamander,BabyDragon
+Bat,Spider,BabyDragon
+Spider,Bat,Salamander
+BabyDragon,Salamander,Bat
+Bat,BabyDragon,Salamander
+Salamander,BabyDragon,Spider

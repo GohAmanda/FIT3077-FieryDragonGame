@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/snakeyaml-1.29.jar"
+        
+    ],
+    
+    "java.project.resourcePaths": ["src/main/resources"]
+    
+}
